@@ -18,5 +18,6 @@ http://localhost:3080/calculator/api/
 https://kotlinlang.org/docs/reference/
 ## Spring Boot Kotlin Tutorial
 http://spring.io/guides/tutorials/spring-boot-kotlin/
+https://kotlinlang.org/docs/tutorials/spring-boot-restful.html
 ## Docker Documentation
 https://docs.docker.com/

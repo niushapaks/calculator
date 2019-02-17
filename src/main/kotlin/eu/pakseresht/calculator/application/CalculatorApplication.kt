@@ -1,4 +1,4 @@
-package eu.pakseresht.calculator
+package eu.pakseresht.calculator.application
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

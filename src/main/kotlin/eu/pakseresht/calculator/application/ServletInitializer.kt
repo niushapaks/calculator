@@ -1,4 +1,5 @@
-import eu.pakseresht.calculator.CalculatorApplication
+package eu.pakseresht.calculator.application
+
 import org.springframework.boot.builder.SpringApplicationBuilder
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
