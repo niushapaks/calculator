@@ -17,7 +17,8 @@ http://localhost:3080/calculator/api/
 ## Kotlin Reference
 https://kotlinlang.org/docs/reference/
 ## Spring Boot Kotlin Tutorial
-http://spring.io/guides/tutorials/spring-boot-kotlin/
-https://kotlinlang.org/docs/tutorials/spring-boot-restful.html
+- http://spring.io/guides/tutorials/spring-boot-kotlin/
+- https://kotlinlang.org/docs/tutorials/spring-boot-restful.html
+- https://blog.zenika.com/2018/04/05/ma-premiere-application-spring-boot-2-avec-kotlin/
 ## Docker Documentation
 https://docs.docker.com/
